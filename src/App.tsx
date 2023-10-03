@@ -16,6 +16,7 @@ function App() {
         <SocialIcon style={{ height: 40, width: 40 }} url="https://www.youtube.com/channel/UCWjbUH8f5M8T1h_udGp6KTA" />
         <SocialIcon style={{ height: 40, width: 40 }} url="https://www.facebook.com/josephgaraofficial/" />
         <SocialIcon style={{ height: 40, width: 40 }} url="https://www.instagram.com/josephgaraofficial/" />
+        <SocialIcon style={{ height: 40, width: 40 }} url="https://music.apple.com/ph/artist/joseph-gara/1125915394" network="itunes" />
       </footer>
     </div>
   )
