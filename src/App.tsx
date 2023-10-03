@@ -9,7 +9,7 @@ function App() {
         <h1 className="text-4xl md:text-6xl font-bold">Joseph Gara</h1>
       </header>
       <div className="flex flex-row justify-center items-center h-[calc(60vh)] md:h-[calc(60vh)] overflow-hidden">
-        <img className="object-cover max-w-none max-h-full md:min-w-full mx-auto" src="./images/joseph-gara-hero-01.jpg" alt="Joseph Gara masthead" />
+        <img className="object-cover max-w-none max-h-full md:min-w-full mx-auto" src="./images/joseph-gara-hero-01.webp" alt="Joseph Gara masthead" />
       </div>
       <footer className="flex flex-row justify-center items-center gap-3 p-6 pb-12">
         <SocialIcon style={{ height: 40, width: 40 }} url="https://open.spotify.com/artist/31M83eWJM6J8qCaeUMLIWF" />
